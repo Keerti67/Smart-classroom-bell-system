@@ -1,0 +1,1 @@
+ARM-based Smart Classroom Bell System that automates bell ringing using RTC-based scheduling. Displays current and next bell timings on an LCD, provides LED indication, and supports manual bell triggering through external interrupts. Developed using Embedded C with ARM microcontroller peripherals.
